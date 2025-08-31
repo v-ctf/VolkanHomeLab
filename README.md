@@ -1,23 +1,3 @@
-# VolkanHomeLab
+## VolkanHomeLab
 Practicing ComptTIA A+ Learnings
-
-## Environment Setup
-
-I am building a homelab using Oracle VirtualBox with Windows 11 Pro and Windows Server 2022.
-
-### Windows 11 Pro
-- Fresh install completed
-- Updates installed
-- Snapshot created
-
-![Windows 11 Fresh Install and Updates](images/setup/win11pro_fresh_update.png)
-![Windows 11 Snapshot](images/setup/win11pro_updated_snapshot.png) 
-
-### Windows Server 2022
-- Fresh install completed
-- Updates installed
-- Snapshot created
-
-![Windows Server Fresh Install and Updates](images/setup/winserver22_fresh_update.png) 
-![Windows Server Snapshot](images/setup/winserver22_updated_snapshot.png)
 
