@@ -33,3 +33,13 @@ Computer name set to **WinServer22Lab**.
 
 ![AD DS Installed - Server Manager](../images/setup/ad_ds_installed_server_manager.png)  
 ![AD DS Installed - PowerShell](../images/setup/ad_ds_installed_powershell.png)  
+
+## AD DS Domain Controller Setup Verification
+
+The server is promoted to a domain controller and the AD DS role is confirmed.
+
+### Server Manager
+![AD DS Role – Domain Controller](../images/setup/winserver22_adds_dc_role.png)
+
+### PowerShell
+![AD DS Role Verification – PowerShell](../images/setup/winserver22_adds_dc_role_ps.png)
