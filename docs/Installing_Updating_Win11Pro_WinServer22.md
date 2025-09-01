@@ -1,34 +1,29 @@
-## Windows 11 Pro
+# Installing and Updating Windows 11 Pro and Windows Server 2022
 
-- Fresh install completed
-- Updates installed
-- Snapshot created
+This lab documents the setup of two virtual machines in Oracle VirtualBox:  
+- Windows 11 Pro  
+- Windows Server 2022  
 
-![Windows 11 Pro Fresh Update](../images/setup/win11pro_fresh_update.png)
-![Windows 11 Pro Snapshot](../images/setup/win11pro_updated_snapshot.png)
-![Screenshots of updates and snapshots](../images/setup/screenshots_taken_updates_snapshots.png)
+Both machines were installed, updated, and had snapshots created for recovery.
 
 ---
 
-## Windows Server 2022 – Initial Setup
+## Windows 11 Pro Setup
 
-- Computer name set to `WinServer22Lab`
-- AD DS role installed
-- Screenshots of Server Manager and PowerShell confirmation
+- Fresh install completed  
+- Windows updates installed  
+- Snapshot created  
 
-![Server Manager – Computer Name](../images/setup/Server_Manager_Computer_Name_WinServer22Lab.png)
-![AD DS Installed – Server Roles](../images/setup/ad_ds_installed_server_roles.png)
-![AD DS Installed – Server Manager](../images/setup/ad_ds_installed_server_manager.png)
-![AD DS Installed – PowerShell](../images/setup/ad_ds_installed_powershell.png)
+![Windows 11 Fresh Install and Updates](../images/setup/win11pro_fresh_update.png)  
+![Windows 11 Snapshot](../images/setup/win11pro_updated_snapshot.png)  
 
 ---
 
-## Windows Server 2022 – AD DS Installation Process
+## Windows Server 2022 Setup
 
-- Role installation selections and confirmations
+- Fresh install completed  
+- Windows updates installed  
+- Snapshot created  
 
-![Server Roles – AD DS Role Selection](../images/setup/winserver22_roles_server_roles_AD_DS.png)
-![Server Roles – Server Selection](../images/setup/winserver22_roles_server_selection.png)
-![Installation Type](../images/setup/winserver22_roles_installation_type.png)
-![Installation Confirmation](../images/setup/winserver22_roles_installation_confirmation.png)
-![Installation Completed](../images/setup/winserver22_roles_installation_completed.png)
+![Windows Server Fresh Install and Updates](../images/setup/winserver22_fresh_update.png)  
+![Windows Server Snapshot](../images/setup/winserver22_updated_snapshot.png)  
